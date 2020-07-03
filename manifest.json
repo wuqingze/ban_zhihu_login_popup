@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+	"name": "知乎免登录打扰",
+	"version": "1.0",
+	"description": "本插件可以屏蔽浏览知乎内容时时不时出现的登录弹窗",
+	"author": "wuqingze",
+	"icons":
+	{
+		"48": "icon.png",
+		"128": "icon.png"
+	},
+	"browser_action": 
+	{
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	},
+	"content_scripts": 
+	[
+		{
+			"matches": ["https://www.zhihu.com/*"],
+			"js": ["content-script.js"]
+		}
+	],
+	"web_accessible_resources": 
+	[
+		"inject.js"
+	]
+}
