@@ -2,7 +2,7 @@
 
 网页版知乎有一个非常烦人的地方，在不登陆情况下浏览知乎内容，时不时会有登录弹窗出来，
 本插件提供屏蔽登录弹窗的功能，不需要每次手动点击关闭弹窗。
-<img src="./images/zhihu_popup.png"/>
+<img src="images/zhihu_popup.png"/>
 ### quick start
 
 1. 将本扩展程序文件夹保存。
