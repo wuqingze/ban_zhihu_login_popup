@@ -4,5 +4,10 @@
 		if(t.length>0){
 			t[0].click();
 		}
+		t = document.getElementsByClassName("login-mark");
+		if(t.length>0){
+            var elem = t[0];
+            elem.parentNode.removeChild(elem);
+		}
 	},100);
 })();
