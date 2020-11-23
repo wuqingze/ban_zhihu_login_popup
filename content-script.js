@@ -9,7 +9,7 @@
             var elem = t[0];
             elem.parentNode.removeChild(elem);
 		}
-        t =  document.getElementById(id);
+        t =  document.getElementById("passportbox");
         t.parentNode.removeChild(t);
 	},100);
 })();
