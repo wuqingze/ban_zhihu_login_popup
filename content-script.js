@@ -10,6 +10,8 @@
             elem.parentNode.removeChild(elem);
 		}
         t =  document.getElementById("passportbox");
-        t.parentNode.removeChild(t);
+        if(t != null && t.parentNode != null){
+            t.parentNode.removeChild(t);
+        }
 	},100);
 })();
