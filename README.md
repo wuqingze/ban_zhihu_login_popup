@@ -6,22 +6,16 @@
 --- 更新删除csdn强制登陆窗口
 --- 2020/11/22 更新删除csdn强制登陆窗口
 
-### quick start
+### 插件安装步骤
 1. 下载本插件文件，建议直接下载zip压缩包，解压保存
-
-![./imgs/7.jpg](./imgs/7.jpg)
+<br/>![./imgs/7.jpg](./imgs/7.jpg)
 2. 在浏览器地址栏输入`chrome://extensions`
-
-![./imgs/1.jpg](./imgs/1.jpg)
+<br/>![./imgs/1.jpg](./imgs/1.jpg)
 3. 选择`开发者模式`
-
-![./imgs/2.jpg](./imgs/2.jpg)
+<br/>![./imgs/2.jpg](./imgs/2.jpg)
 4. 选择`加载已解压的扩展程序`
-
-![./imgs/3.jpg](./imgs/3.jpg)
+<br/>![./imgs/3.jpg](./imgs/3.jpg)
 5. 选择插件文件
-
-![./imgs/4.jpg](./imgs/4.jpg)
+<br/>![./imgs/4.jpg](./imgs/4.jpg)
 6. 大功告成，浏览知乎内容时就不用被登录弹窗打扰了 
-
-![./imgs/4.jpg](./imgs/8.jpg)
+<br/>![./imgs/9.jpg](./imgs/9.jpg)
