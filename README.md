@@ -19,4 +19,4 @@
 5. 选择插件文件
 <br/>![./imgs/4.jpg](./imgs/4.jpg)
 6. 大功告成，浏览知乎内容时就不用被登录弹窗打扰了 
-<br/>![./imgs/9.jpg](./imgs/9.jpg)
+<br/>![./imgs/8.jpg](./imgs/8.jpg)
