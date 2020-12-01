@@ -8,21 +8,11 @@
 
 ### quick start
 1. 下载本插件文件保存
-
-![./imgs/1.jpg](./imgs/1.jpg)
-
 2. 在浏览器地址栏输入`chrome://extensions`
-
-![./imgs/2.jpg](./imgs/2.jpg)
-
+<br/>![./imgs/1.jpg](./imgs/1.jpg)
 3. 选择`开发者模式`
-
-![./imgs/3.jpg](./imgs/3.jpg)
-
+<br/>![./imgs/2.jpg](./imgs/2.jpg)
 4. 选择`加载已解压的扩展程序`
-
-![./imgs/4.jpg](./imgs/4.jpg)
-
+<br/>![./imgs/3.jpg](./imgs/3.jpg)
 5. 选择插件文件
-
-![./imgs/5.jpg](./imgs/5.jpg)
+<br/>![./imgs/4.jpg](./imgs/4.jpg)
