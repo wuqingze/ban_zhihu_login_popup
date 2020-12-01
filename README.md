@@ -8,12 +8,20 @@
 
 ### quick start
 1. 下载本插件文件，建议直接下载zip压缩包，解压保存
-<br/>![./imgs/7.jpg](./imgs/7.jpg)
+
+![./imgs/7.jpg](./imgs/7.jpg)
 2. 在浏览器地址栏输入`chrome://extensions`
-<br/>![./imgs/1.jpg](./imgs/1.jpg)
+
+![./imgs/1.jpg](./imgs/1.jpg)
 3. 选择`开发者模式`
-<br/>![./imgs/2.jpg](./imgs/2.jpg)
+
+![./imgs/2.jpg](./imgs/2.jpg)
 4. 选择`加载已解压的扩展程序`
-<br/>![./imgs/3.jpg](./imgs/3.jpg)
+
+![./imgs/3.jpg](./imgs/3.jpg)
 5. 选择插件文件
-<br/>![./imgs/4.jpg](./imgs/4.jpg)
+
+![./imgs/4.jpg](./imgs/4.jpg)
+6. 大功告成，浏览知乎内容时就不用被登录弹窗打扰了 
+
+![./imgs/4.jpg](./imgs/8.jpg)
