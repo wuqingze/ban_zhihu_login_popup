@@ -7,7 +7,8 @@
 --- 2020/11/22 更新删除csdn强制登陆窗口
 
 ### quick start
-1. 下载本插件文件保存
+1. 下载本插件文件，建议直接下载zip压缩包，解压保存
+<br/>![./imgs/7.jpg](./imgs/7.jpg)
 2. 在浏览器地址栏输入`chrome://extensions`
 <br/>![./imgs/1.jpg](./imgs/1.jpg)
 3. 选择`开发者模式`
