@@ -28,5 +28,5 @@
             elem.parentNode.removeChild(elem);
 		}
 
-	},100);
+	},200);
 })();

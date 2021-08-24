@@ -17,7 +17,7 @@
 	"content_scripts": 
 	[
 		{
-			"matches": ["https://www.zhihu.com/*", "https://blog.csdn.net/*"],
+			"matches": ["https://www.zhihu.com/*", "https://blog.csdn.net/*", "https://zhuanlan.zhihu.com/*"],
 			"js": ["content-script.js"]
 		}
 	],
